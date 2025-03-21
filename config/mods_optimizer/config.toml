@@ -12,7 +12,7 @@
 # Remove mod ids, if they are not needed anymore or
 # use mod_id="default" to disable any optimization for them.
 #
-# Last update: 2025-03-15T19:10:20.722838
+# Last update: 2025-03-21T12:56:33.747011200
 # Note: To automatic update this file after an mod update, just delete the file.
 # Normally you only need to update this file, if you run into problems with specific mods.
 
@@ -115,7 +115,7 @@ default-options = "client"
 detail-armor-bar = "client"
 ding = "client"
 discordsrv = "server"
-distanthorizons = "server"
+distanthorizons = "default"
 distinguished-potions = "client"
 drawerfps = "client"
 drippy-loading-screen = "client"

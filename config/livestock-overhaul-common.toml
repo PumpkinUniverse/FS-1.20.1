@@ -38,8 +38,6 @@
 	"Spawn Caribou" = true
 	#Should undead horses be replaced by O-Undead Horses?
 	"Replace Undead Horses" = true
-	#Should Livestock Traders have a chance to replace Wandering Traders?
-	"Spawn Livestock Traders" = true
 
 [Miscellaneous]
 	#Should an animal's gender affect the ability to get bi-products from it?
@@ -49,13 +47,13 @@
 	#Should animals, like cows, herd together?
 	"Animals Herd Together" = true
 	#Maximum amount of O-Cows that can herd together. Default is 8.
-	"Cow Herd Maximum" = 8
+	"Cow Herd Maximum" = 15
 	#Maximum amount of O-Horses that can herd together. Default is 3.
-	"Horse Herd Maximum" = 3
+	"Horse Herd Maximum" = 15
 	#Maximum amount of O-Sheep that can herd together. Default is 8.
 	"Sheep Herd Maximum" = 8
 	#Maximum amount of O-Llamas that can herd together. Default is 3.
-	"Llama Herd Maximum" = 3
+	"Llama Herd Maximum" = 10
 	#Should O-Animals use vanilla loot instead of the loot included in the mod?
 	"Use Vanilla Animal Loot" = false
 	#Should O-Horses be able to spawn with any breed naturally? (They spawn only as wild Mustangs by default)

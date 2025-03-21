@@ -70,6 +70,14 @@
   "jadeaddons.lootr": {
     "info": true
   },
+  "createsifter": {
+    "sifter_data": true
+  },
+  "delightful": {
+    "crop_progress": true,
+    "pie_icons": true,
+    "mushroom_colony": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -78,39 +86,23 @@
     "registry_name": "OFF",
     "mod_name": true
   },
+  "create_mob_spawners": {
+    "spawner_progress": true
+  },
   "apotheosis": {
     "adventure": true,
     "ench": true,
     "spawner": true
   },
-  "vampirism": {
-    "altar_pillar": true,
-    "weapon_table": true,
-    "player_faction.lord_level_number": false,
-    "alchemy_table": true,
-    "entity_blood.show_fraction": false,
-    "entity_blood.max_for_render": 40,
-    "potion_table": true,
-    "totem": true,
-    "research_table": true,
-    "entity_blood.icon_per_line": 10,
-    "player_faction": true,
-    "entity_blood": true,
-    "altar_of_infusion": true,
-    "garlic_beacon": true,
-    "pedestal_charging": true,
-    "altar_of_inspiration": true
-  },
-  "corpse": {
-    "corpse": true
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "preservation_chamber": true,
+    "milk_jar": true,
+    "toaster": true
   },
   "balm": {
     "jade": true
-  },
-  "storagedrawers": {
-    "display.stacklimit": true,
-    "main": true,
-    "display.content": true,
-    "display.status": true
   }
 }

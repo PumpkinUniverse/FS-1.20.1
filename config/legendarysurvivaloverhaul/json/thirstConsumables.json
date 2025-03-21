@@ -226,14 +226,6 @@
       "nbt": {}
     }
   ],
-  "upgrade_aquatic:mulberry": [
-    {
-      "hydration": 4,
-      "saturation": 0.0,
-      "effects": [],
-      "nbt": {}
-    }
-  ],
   "minecraft:beetroot_soup": [
     {
       "hydration": 4,

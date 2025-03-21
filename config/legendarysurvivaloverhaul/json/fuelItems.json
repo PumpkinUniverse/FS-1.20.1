@@ -3,6 +3,10 @@
     "thermalType": "COOLING",
     "fuelValue": 1620
   },
+  "iceandfire:dread_shard": {
+    "thermalType": "COOLING",
+    "fuelValue": 180
+  },
   "minecraft:coal_block": {
     "thermalType": "HEATING",
     "fuelValue": 270
@@ -18,6 +22,10 @@
   "minecraft:coal": {
     "thermalType": "HEATING",
     "fuelValue": 30
+  },
+  "iceandfire:dragon_ice": {
+    "thermalType": "COOLING",
+    "fuelValue": 20
   },
   "minecraft:snowball": {
     "thermalType": "COOLING",

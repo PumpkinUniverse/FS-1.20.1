@@ -18,4 +18,6 @@
 		"Dinofelis Replacer" = true
 		#Should Titanis Walleri spawn alongside Turkeys?
 		"Spawn Titanis Walleri" = true
+		#Should Titanis Walleri spawn alongside Cows?
+		"Spawn Aurochs" = true
 
