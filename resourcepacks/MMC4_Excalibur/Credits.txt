@@ -1,0 +1,16 @@
+# First off, credits go to Maffhew for making Excalibur, on which all assets in this pack are based
+
+Thank you to everyone in the Excalibur discord who graciously makes these mod support packs! Texture support for a large modpack is a truly monumental task and we appreciate everything you do! 
+
+
+The contributors that made the work in this pack include:
+- GrandPappyJay
+- anivay
+- TC
+- pan.dx
+- Abyssal_Kutku
+- LowPassFilter
+- ratty
+- MuonR
+
+If your name was missed, or you'd like to talk about anything else related to resource usage, please let us know! https://discord.gg/lunapixel

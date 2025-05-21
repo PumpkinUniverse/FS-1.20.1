@@ -1,0 +1,9 @@
+{
+	"parent": "apotheosis:block/bookshelf_apotheosis",
+	"textures": {
+		"side": "apotheosis:block/draconic_endshelf",
+		"particle": "minecraft:block/bookshelf",
+		"top": "apotheosis:block/endshelf_top"
+	}	
+	
+}

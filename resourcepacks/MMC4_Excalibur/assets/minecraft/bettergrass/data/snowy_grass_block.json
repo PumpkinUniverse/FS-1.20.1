@@ -1,0 +1,20 @@
+{
+  "layers": [
+    {
+      "textures": {
+        "top": "minecraft:block/snow",
+        "side": "minecraft:block/grass_block_snow"
+      }
+    },
+    {
+      "textures": {
+        "top": "lambdabettergrass:block/snow_outline",
+        "side": "lambdabettergrass:block/transparent",
+        "overrides": {
+          "connect": "lambdabettergrass:block/transparent"
+        }
+      },
+      "masks": {}
+    }
+  ]
+}

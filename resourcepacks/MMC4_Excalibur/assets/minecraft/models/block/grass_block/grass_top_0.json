@@ -1,0 +1,18 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/grass_block/grass_block_top",
+		"top": "block/grass_block/grass_block_top"
+	},
+	"elements": [
+		{
+			"name": "grass_top",
+			"from": [0, 16, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up", "tintindex": 0}
+			}
+		}
+	]
+}

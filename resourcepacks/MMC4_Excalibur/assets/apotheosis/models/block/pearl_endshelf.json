@@ -1,0 +1,9 @@
+{
+	"parent": "apotheosis:block/bookshelf_apotheosis",
+	"textures": {
+		"side": "apotheosis:block/pearl_endshelf",
+		"particle": "apotheosis:block/endshelf",
+		"top": "apotheosis:block/endshelf_top"
+	}	
+	
+}
