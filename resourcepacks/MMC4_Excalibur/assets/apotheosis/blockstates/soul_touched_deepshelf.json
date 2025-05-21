@@ -1,9 +1,0 @@
-{
-    "variants": {
-		"": [
-		{ "model": "apotheosis:block/soul_touched_deepshelf" },
-		{ "model": "apotheosis:block/soul_touched_deepshelf1" },
-		{ "model": "apotheosis:block/soul_touched_deepshelf2" }
-		]
-    }
-}

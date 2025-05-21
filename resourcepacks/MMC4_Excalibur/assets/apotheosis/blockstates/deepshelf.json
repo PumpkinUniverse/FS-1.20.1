@@ -1,9 +1,0 @@
-{
-    "variants": {
-		"": [
-		{ "model": "apotheosis:block/deepshelf" },
-		{ "model": "apotheosis:block/deepshelf1" },
-		{ "model": "apotheosis:block/deepshelf2" }
-		]
-    }
-}
