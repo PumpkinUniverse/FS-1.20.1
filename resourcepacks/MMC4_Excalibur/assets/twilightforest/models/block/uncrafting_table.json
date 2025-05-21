@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+    "down": "minecraft:block/jungle_planks",
+    "east": "twilightforest:block/uncrafting_3",
+    "north": "twilightforest:block/uncrafting_1",
+    "particle": "minecraft:block/jungle_planks",
+    "south": "twilightforest:block/uncrafting_2",
+    "up": "twilightforest:block/uncrafting_top",
+    "west": "twilightforest:block/uncrafting_3"
+  }
+}

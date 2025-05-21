@@ -1,0 +1,9 @@
+{
+    "variants": {
+		"": [
+		{ "model": "apotheosis:block/stoneshelf" },
+		{ "model": "apotheosis:block/stoneshelf1" },
+		{ "model": "apotheosis:block/stoneshelf2" }
+		]
+    }
+}

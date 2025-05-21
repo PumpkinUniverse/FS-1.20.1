@@ -1,0 +1,9 @@
+{
+	"parent": "apotheosis:block/bookshelf_apotheosis",
+	"textures": {
+		"side": "apotheosis:block/rectifier_t2",
+		"particle": "apotheosis:block/rectifier_t2",
+		"top": "apotheosis:block/rectifier_t2_top"
+	}	
+	
+}
